@@ -1,0 +1,4 @@
+.DS_Store
+
+tmp/videos/*.mp4
+tmp/videos/output/*.mp4
